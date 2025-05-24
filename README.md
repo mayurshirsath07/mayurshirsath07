@@ -1,7 +1,9 @@
 🎓 Beginner Software Developer | Lifelong Learner | Passionate about Coding
 
 🚀 Just starting my journey in software development, exploring technologies like HTML, CSS, JavaScript, SQL, and Python.
+
 🌱 Eager to learn, contribute, and grow within the tech community.
+
 💡 Passionate about problem-solving and building innovative solutions.
 🤝 Open to collaboration, mentorship, and new opportunities
 <!---
